@@ -33,3 +33,13 @@
 - [Google Ads](https://ads.google.com/home/campaigns/ai-powered-ad-solutions/)
 - [Midjourney](https://www.midjourney.com/home)
 - [Runway](https://runwayml.com/)
+
+### Prompts for different purposes
+
+- Content Creation
+- Summarization
+- Classification
+- Extraction
+- Translation
+- Editing
+- Problem-solving
