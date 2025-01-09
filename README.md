@@ -48,3 +48,11 @@
 
 - few-shots prompting
 - chain-of-thought prompting
+
+### Harms and biases
+
+- **Allocative harm:** Wrongdoing that occurs when an AI system’s use or behavior withholds opportunities, resources, or information in domains that affect a person’s well-being
+- **Quality-of-service harm:** A circumstance in which AI tools do not perform as well for certain groups of people based on their identity
+- **Representational harm:** An AI tool’s reinforcement of the subordination of social groups based on their identities
+- **Social system harm:** Macro-level societal effects that amplify existing class, power, or privilege disparities, or cause physical harm, as a result of the development or use of AI tools
+- **Interpersonal harm:** The use of technology to create a disadvantage to certain people that negatively affects their relationships with others or causes a loss of their sense of self and agency
