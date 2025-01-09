@@ -43,3 +43,8 @@
 - Translation
 - Editing
 - Problem-solving
+
+### Techniques for prompting an LLM
+
+- few-shots prompting
+- chain-of-thought prompting
