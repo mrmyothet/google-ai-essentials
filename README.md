@@ -75,3 +75,10 @@ To help you create good input, consider using this framework when crafting promp
 - **Analyze** the facts presented to determine everything you're reading is true.
 - **Retouched** photos and videos might be present in the content you want to share, so be cautious about misleading imagery.
 - **Errors** may be present in the content you're sharing and the information is more likely to be false if it’s riddled with typos and errors.
+
+### Stay up to date with AI - Resources
+
+- [Stanford Institute for Human-Centered Artificial Intelligence](https://hai.stanford.edu/)
+- [All Things Generative AI](https://allthingsai.com/)
+- [Global Trends 2040: A More Contested World](https://www.dni.gov/index.php/gt2040-home)
+- [Science & Tech Spotlight: Generative AI](https://www.gao.gov/products/gao-23-106782)
