@@ -56,3 +56,14 @@
 - **Representational harm:** An AI tool’s reinforcement of the subordination of social groups based on their identities
 - **Social system harm:** Macro-level societal effects that amplify existing class, power, or privilege disparities, or cause physical harm, as a result of the development or use of AI tools
 - **Interpersonal harm:** The use of technology to create a disadvantage to certain people that negatively affects their relationships with others or causes a loss of their sense of self and agency
+
+### Framework for prompting
+
+You’ll only get good output if you provide good input.
+To help you create good input, consider using this framework when crafting prompts:
+
+- Describe your **task**, specifying a persona and format preference.
+- Include any **context** the generative AI tool might need to give you what you want.
+- Add **references** the generative AI tool can use to inform its output.
+- **Evaluate** the output to identify opportunities for improvement.
+- **Iterate** on your initial prompt to attain those improvements.
