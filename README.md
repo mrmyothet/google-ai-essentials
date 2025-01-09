@@ -67,3 +67,11 @@ To help you create good input, consider using this framework when crafting promp
 - Add **references** the generative AI tool can use to inform its output.
 - **Evaluate** the output to identify opportunities for improvement.
 - **Iterate** on your initial prompt to attain those improvements.
+
+### SHARE, the World Health Organization’s mnemonic
+
+- **Source** your content from credible and official sources.
+- **Headlines** don't always tell the full story, so read full articles before you share.
+- **Analyze** the facts presented to determine everything you're reading is true.
+- **Retouched** photos and videos might be present in the content you want to share, so be cautious about misleading imagery.
+- **Errors** may be present in the content you're sharing and the information is more likely to be false if it’s riddled with typos and errors.
