@@ -82,3 +82,7 @@ To help you create good input, consider using this framework when crafting promp
 - [All Things Generative AI](https://allthingsai.com/)
 - [Global Trends 2040: A More Contested World](https://www.dni.gov/index.php/gt2040-home)
 - [Science & Tech Spotlight: Generative AI](https://www.gao.gov/products/gao-23-106782)
+
+### [Certificate of Completion](https://coursera.org/share/fb781ffafd253dad72ccc699c90e5818)
+
+### [Credly Badge](https://www.credly.com/badges/ec152ea7-6a6b-4cf4-81cc-58532a90ee22)
